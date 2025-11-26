@@ -22,6 +22,15 @@ img {
   margin: 20px 0; /* Adds vertical spacing and ensures horizontal centering */
 }
 
+#placeholder {
+  display: block;
+}
+
+#playingGif,
+#pausedGif {
+  display: none;
+}
+
 button {
   padding: 10px 20px;
   font-size: 16px;
